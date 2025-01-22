@@ -5,8 +5,8 @@
 #include <linux/slab.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
-MODULE_DESCRIPTION("Kernel Module for Inverting a List");
+MODULE_AUTHOR("Azot");
+MODULE_DESCRIPTION("Lab 4 Kernel Test");
 MODULE_VERSION("1.0");
 
 // Масив чисел, який передається як параметр
